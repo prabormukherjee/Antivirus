@@ -1,4 +1,4 @@
-# Anitvirus
+# Antivirus
 
 Malware detection is a very useful problem. But honestly speaking it is not too hard, atleast when you have a large amount of data. Today I made a simple Antivirus(malware detector) using Machine Learning algorithm. If you think logically, it is nothing but a clasification problem i.e. whether our target is harmful(malware) or not.
 <br>
