@@ -6,7 +6,7 @@ Now I got a few dataset which is quite useful. I'm using the dataset from Kaggle
 <br>
 You may get some warning on running this project. That is Deprication warning, which means some change may occur in future with this library. But don't worry about it, I'll change the source code if it breaks at any point. The warnings on
 <ul>
-  <li> importing joblib from sklearn.externals which can be directly done by joblib module [`pip install joblib`] </li>
+  <li> importing joblib from sklearn.externals which can be directly done by joblib module [pip install joblib] </li>
   <li> using the value of n_estimators, because they will change the default value from 10 to 100 </li>
 </ul>
 
