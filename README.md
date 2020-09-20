@@ -1,6 +1,6 @@
 # Antivirus
 
-Malware detection is a very useful problem. But it is not too hard, to get the sloution, atleast when you have a large amount of data. Today I made a simple Antivirus(malware detector) using Machine Learning algorithm. It is nothing but a clasification problem i.e. whether our target is harmful(malware) or not.    
+Malware detection is a very useful problem. But it is not too hard, to get the solution, atleast when you have a large amount of data. Today I made a simple Antivirus(malware detector) using Machine Learning algorithm. It is nothing but a clasification problem i.e. whether our target is harmful(malware) or not.    
 
 Now I got a few dataset which is quite useful. I'm using the dataset from Kaggle by Microsoft. The data is stored in md5 hashed value. You can check the original dataset which was more than 30 gb(compressed). I provided a small subset of this data if you want to try. To run it on your machine check all the dependency of my project. You have to have Numpy,Pandas, Sklearn, Pickle, PE file installed on your system. Make sure you are on Python3 environment. Still if you get any error download the dependency or can contact with me.    
 
